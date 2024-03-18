@@ -10,4 +10,14 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_list">List</string>
+    <string name="menu_add_list">Add Form</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strTitleLogin">Login</string>
+    <string name="strUsernameLogin">Username</string>
+    <string name="strPasswordLogin">Password</string>
+    <string name="strButtonLogin">Login</string>
+    <string name="strForm" />
+    <string name="strTitleForm">DAN\nMiraflores - Lima - Peru\nConectado Ahora</string>
+    <string name="strDescriptionForm">Sobre DAN:\nLorem Ipsum\n\nDueno:\nJose Alberto Solorzano Nunez\n\nFacebook:\nwww.facebook.com/juegos</string>
 </resources>
