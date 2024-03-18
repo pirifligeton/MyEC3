@@ -20,4 +20,7 @@
     <string name="strForm" />
     <string name="strTitleForm">DAN\nMiraflores - Lima - Peru\nConectado Ahora</string>
     <string name="strDescriptionForm">Sobre DAN:\nLorem Ipsum\n\nDueno:\nJose Alberto Solorzano Nunez\n\nFacebook:\nwww.facebook.com/juegos</string>
+    <string name="strDesctrpitionLIst" />
+    <string name="strDescriptionList">"Nmae\n\nLorem ipsum "</string>
+    <string name="strRateList">Rating</string>
 </resources>
