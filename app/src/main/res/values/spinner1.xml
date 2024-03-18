@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner1">
+        <item>Seleccione</item>
+        <item>1 perro</item>
+        <item>2 perros</item>
+        <item>3 perros</item>
+        <item>4 perros</item>
+    </string-array>
+</resources>
